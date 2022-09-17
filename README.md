@@ -15,6 +15,6 @@ Projeto construido durante o evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## 📞 Contato
+## 📧 Contato
 
-📧 anadarcode@gmail.com
+ - anadarcode@gmail.com
